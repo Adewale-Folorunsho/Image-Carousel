@@ -1,3 +1,5 @@
+This is a test project. Just learning the basics
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
