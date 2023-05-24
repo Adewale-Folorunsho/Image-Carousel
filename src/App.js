@@ -1,4 +1,5 @@
 import './App.css';
+import "./styles.css";
 import { useState } from 'react';
 
 function App() {
@@ -36,7 +37,7 @@ function App() {
           (image, index) =>
             imageNumber === index && (
               <div key={image} className="slide">
-                <img src={image} width={250} height={250} alt="images" />
+                <img src={image} alt="images" />
               </div>
             )
         )}
