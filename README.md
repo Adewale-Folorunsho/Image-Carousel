@@ -1,5 +1,11 @@
 This is a test project. Just learning the basics
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUwNmJkNGIxOTVmYmViMDY2YWVhNzU0YmM5YWFmNTRmZmMzZGRhZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Ff4ncROyc9BC5bDBCC/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
